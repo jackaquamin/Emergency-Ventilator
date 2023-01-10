@@ -14,8 +14,8 @@ char auth[] = "zegyPanevAvkGE22bssFCOpPvR_d1H-g";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "HUAWEI P2000";
-char pass[] = "Palm99234";
+char ssid[] = "*******";
+char pass[] = "*******";
 
 int VentOn = 0;
 int Mode = 0;
